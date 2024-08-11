@@ -1,2 +1,2 @@
 # diff-practice
-rebace-practiceで更新
+main branch conflict用で更新
